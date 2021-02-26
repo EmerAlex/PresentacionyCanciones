@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">BiografiaYcanciones</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Presentación y Artistas</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nombreUsuario1">Emerson Alexis Quinchia Hincapie</string>
+    <string name="tituloBiografia">Presentación y Hobbies</string>
+    <string name="descripcionUsuario1">Descripsión del usuario</string>
+    <string name="buscarArtista">Ingrese el Nombre del Artista</string>
+    <string name="tituloArtista">Artistas</string>
+    <string name="menuInicio">Inicio</string>
+    <string name="menuHojaVida">Presentación</string>
+    <string name="menuArtistas">Artistas</string>
+    <string name="quuen">Quuen</string>
+    <string name="beatles">The Beatles</string>
+    <string name="soad">System of a Down</string>
+    <string name="culturaProfetica">Cultura Profetica</string>
+    <string name="puestoCandelaria">Puerto Candelaria</string>
+    <string name="rock">Rock</string>
+    <string name="popRock">Pop-Rock</string>
+    <string name="reggae">Reggae</string>
+    <string name="cumbiaRockSka">Cumbia-Rock-Ska</string>
+    <string name="theGame">The Game</string>
+    <string name="anotheOneBites">Another One Bites The Dust</string>
+    <string name="help">Help!</string>
+    <string name="toxicity">Toxicity</string>
+    <string name="aerials">Aerials</string>
+    <string name="dulzura">La Dulzura</string>
+    <string name="ilegal">Ilegal</string>
+    <string name="cantinalafoule">Cantina la Foule</string>
+    <string name="senderitodeAmor">Senderito de Amor</string>
+    <string name="title_activity_canciones">CancionesActivity</string>
+    <string name="menuPresentacion">Presentación</string>
+    <string name="tituloCanciones">Reproductor</string>
+    <string name="tituloAplicacion">Presentación y Artistas</string>
+    <string name="nombreUsuario2">Ángel Steward Ríos</string>
+    <string name="descripcionUsuario2">Aque va descripsiasdasdasd</string>
+
+
+</resources>

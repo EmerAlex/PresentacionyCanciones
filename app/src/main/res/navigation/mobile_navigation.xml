@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_inicio">
+
+    <fragment
+        android:id="@+id/nav_inicio"
+        android:name="com.uco.presentacionycanciones.ui.inicio.InicioFragment"
+        android:label="@string/menuInicio"
+        tools:layout="@layout/fragment_inicio" />
+
+    <fragment
+        android:id="@+id/nav_presentacion"
+        android:name="com.uco.presentacionycanciones.ui.presentacion.PresentacionFragment"
+        android:label="@string/menuPresentacion"
+        tools:layout="@layout/fragment_presentacion" />
+
+    <fragment
+        android:id="@+id/nav_artistas"
+        android:name="com.uco.presentacionycanciones.ui.artistas.ArtistaFragment"
+        android:label="@string/menuArtistas"
+        tools:layout="@layout/fragment_artistas" />
+</navigation>
