@@ -36,6 +36,8 @@
     <string name="tituloCanciones">Reproductor</string>
     <string name="tituloAplicacion">Presentación y Artistas</string>
     <string name="nombreUsuario2">Ángel Steward Ríos</string>
+    <string name="tituloInicio">Contexto del problema</string>
+    <string name="primerPunto">1. Debe tener un ícono de acceso directo, puede ser vectorial (svg) o png</string>
 
 
 </resources>
