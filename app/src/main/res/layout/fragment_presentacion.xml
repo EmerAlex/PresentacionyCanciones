@@ -32,12 +32,14 @@
         android:layout_marginTop="30dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:src="@drawable/ic_menu_presentacion"
+        android:background="@drawable/fotoemer"
+        android:src="@drawable/fotoemer"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tituloBiografias"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.0"
+        tools:visibility="visible" />
 
     <TextView
         android:id="@+id/nombreUsuario1"
@@ -79,10 +81,11 @@
         android:layout_width="160dp"
         android:layout_height="160dp"
         android:layout_marginStart="8dp"
+
         android:layout_marginTop="30dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:src="@drawable/ic_menu_presentacion"
+        android:src="@drawable/fotoangel"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.479"
@@ -107,7 +110,7 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imagenUnusario2"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.011" />
 
     <TextView
         android:id="@+id/descripcionUsuario2"

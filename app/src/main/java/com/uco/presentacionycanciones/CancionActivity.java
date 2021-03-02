@@ -94,14 +94,12 @@ public class CancionActivity extends AppCompatActivity {
     }
 
     private void cargarInformacion(){
-
         canciones = new ArrayList<>();
         canciones.add(new Cancion(R.drawable.logoquuen,R.raw.anotheronebites,getString(R.string.quuen),getString(R.string.theGame),getString(R.string.anotheOneBites)));
         canciones.add(new Cancion(R.drawable.logobeatles,R.raw.help,getString(R.string.beatles),getString(R.string.help),getString(R.string.help)));
         canciones.add(new Cancion(R.drawable.logosoad,R.raw.aerials,getString(R.string.soad),getString(R.string.toxicity),getString(R.string.aerials)));
         canciones.add(new Cancion(R.drawable.logocultura,R.raw.ilegal,getString(R.string.culturaProfetica),getString(R.string.dulzura),getString(R.string.ilegal)));
         canciones.add(new Cancion(R.drawable.logopuerocandelaria,R.raw.senderitodeamor,getString(R.string.puestoCandelaria),getString(R.string.cantinalafoule),getString(R.string.senderitodeAmor)));
-
     }
 
 }
