@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="app_name">BiografiaYcanciones</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -8,7 +7,7 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="nombreUsuario1">Emerson Alexis Quinchia Hincapie</string>
     <string name="tituloBiografia">Presentación y Hobbies</string>
-    <string name="descripcionUsuario1">Descripsión del usuario</string>
+    <string name="descripcionUsuario1">Viajar</string>
     <string name="buscarArtista">Ingrese el Nombre del Artista</string>
     <string name="tituloArtista">Artistas</string>
     <string name="menuInicio">Inicio</string>
@@ -32,12 +31,20 @@
     <string name="ilegal">Ilegal</string>
     <string name="cantinalafoule">Cantina la Foule</string>
     <string name="senderitodeAmor">Senderito de Amor</string>
+    <string name="title_activity_canciones">CancionesActivity</string>
     <string name="menuPresentacion">Presentación</string>
     <string name="tituloCanciones">Reproductor</string>
     <string name="tituloAplicacion">Presentación y Artistas</string>
-    <string name="nombreUsuario2">Ángel Steward Ríos</string>
+    <string name="nombreUsuario2">Ángel Stward Ríos</string>
+    <string name="descripcionUsuario2">Montar moto</string>
     <string name="tituloInicio">Contexto del problema</string>
-    <string name="primerPunto">1. Debe tener un ícono de acceso directo, puede ser vectorial (svg) o png</string>
+    <string name="contenidoInicio">Desarrollar una aplicación móvil con las siguientes especificaciones</string>
+    <string name="primerPunto">1. Debe tener un ícono de acceso directo, puede ser vectorial (svg) o png.</string>
+    <string name="cuartoPunto">4. En la opción listar artistas se debe crear una lista con al menos 5 ítems de tipo base Adapter con la siguiente información: foto del artista o banda musical, nombre del artistas, género musical. Al pulsar el ítem me debe mostrar en una nueva Activity, el nombre de una canción, álbum y se debe reproducir y detener la canción.  La lista debe tener un autocomplete.</string>
+    <string name="segundoPunto">2. La aplicación debe tener un menú principal, con la opciones, listar artista y hoja de vida.</string>
+    <string name="tercerPunto">3. En la opción hoja de vida, poner la foto de los integrantes del equipo, los nombres y los hobbies de cada uno de los integrantes.</string>
+
+
 
 
 </resources>
